@@ -31,11 +31,11 @@ plt.show()
 
 
 # trying out an exponential distribution
-samples = np.random.exponential(mean, size = 10000)
+samples = np.random.exponential(mean, size=10000)
 x, y = ecdf(df["satisfaction_level"])
 x_theor, y_theor = ecdf(samples)
 _ = plt.plot(x_theor, y_theor)
-_ = plt.plot(x,y,marker = '.', linestyle = 'none')
+_ = plt.plot(x, y, marker='.', linestyle='none')
 plt.xlabel("Satisfaction Levels")
 plt.ylabel("CDFs")
 plt.show()
