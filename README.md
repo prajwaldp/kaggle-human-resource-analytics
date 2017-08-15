@@ -1,8 +1,8 @@
 # Kaggle Human Resource Analytics
 
-Why are our best and most experienced employees leaving prematurely? Have fun
-with this database and try to predict which valuable employees will leave
-next. Fields in the dataset include:
+[Link to the Kaggle page](https://www.kaggle.com/ludobenistant/hr-analytics)
+
+The dataset fields include:
 
 - Satisfaction Level
 - Last evaluation
@@ -14,3 +14,6 @@ next. Fields in the dataset include:
 - Departments
 - Salary
 - Whether the employee has left
+
+
+
