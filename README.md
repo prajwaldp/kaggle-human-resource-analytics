@@ -2,18 +2,19 @@
 
 [Link to the Kaggle page](https://www.kaggle.com/ludobenistant/hr-analytics)
 
-The dataset fields include:
+An end-to-end predictive analytics project to determine why the best and most
+experienced employees are leaving prematurely.
 
-- Satisfaction Level
-- Last evaluation
-- Number of projects
-- Average monthly hours
-- Time spent at the company
-- Whether they have had a work accident
-- Whether they have had a promotion in the last 5 years
-- Departments
-- Salary
-- Whether the employee has left
+It includes:
+
+1. Data Cleaning, Exploration and Visualization
+2. Statistical Modelling
+3. Machine Learning
 
 
+#### Libraries used:
 
+1. pandas
+2. numpy
+3. matplotlib and seaborn
+4. scikit-learn
